@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://i.ibb.co/Jwq0jn0y/1759962436945.png" alt="Photo — Marcelo Honório" width="140" height="140" style="border-radius:50%; object-fit:cover;" />
   <h1>Marcelo Honório — Senior Software Engineer</h1>
   <p><strong>React / Next.js / Node.js / NestJS / Go / AWS / GCP / Kubernetes / Laravel (PHP)</strong><br/>
   Focus on <strong>performance</strong>, <strong>scalability</strong>, and <strong>code quality</strong>. 10+ years building web & mobile apps, robust APIs, and modern microservices architectures.</p>
